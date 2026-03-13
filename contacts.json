@@ -1,1 +1,9 @@
-[]
+[
+    {
+        "name": "jayesh ",
+        "company": "TCS",
+        "email": "jayesh123@gmail.com",
+        "phone": "9988776655",
+        "category": "Client"
+    }
+]
